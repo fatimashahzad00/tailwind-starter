@@ -1,0 +1,28 @@
+/* //inline fold extension
+p, h1{
+    font-size: 12px;
+    background-color: blue;
+}
+
+.small {
+    font-size: 18px;
+}
+.large {
+    font-size: 24px;
+} */
+
+.car-body {
+    background-color: blue;
+    height: 100px;
+    width: 200px;
+}
+.car-wheel {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
+.car-headlight {
+    background-color: yellow;
+    height: 20px;
+    width: 20px;
+}
