@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
+    // example
     <div className="flex justify-center bg-blue-900">
       <div className="m-4 order-last">
         <Image src="/1903907.jpg" width={100} height={100} alt="Next Logo" className="rounded-full"/>
